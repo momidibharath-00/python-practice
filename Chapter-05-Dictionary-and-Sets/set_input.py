@@ -1,0 +1,7 @@
+numbers = set()
+numbers.add(int(input("Enter number 1: ")))
+numbers.add(int(input("Enter number 2: ")))
+numbers.add(int(input("Enter number 3: ")))
+numbers.add(int(input("Enter number 4: ")))
+numbers.add(int(input("Enter number 5: ")))
+print("Final Set:", numbers)
